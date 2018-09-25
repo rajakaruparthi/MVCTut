@@ -1,0 +1,2 @@
+# MVCTut
+MVC sample tutorial
